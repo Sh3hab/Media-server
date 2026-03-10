@@ -1,0 +1,12 @@
+{
+  "admins": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123",
+      "name": "مدير النظام",
+      "role": "superadmin",
+      "createdAt": "2026-02-24T05:22:45.853Z"
+    }
+  ]
+}

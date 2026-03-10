@@ -1,0 +1,4904 @@
+{
+  "logs": [
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:55:17.185Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/movies",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:55:16.326Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:55:14.967Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/logs?limit=10",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:55:14.287Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/stats",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:55:14.278Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:55:13.113Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/logs?limit=10",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:55:12.472Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/stats",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:55:12.459Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772083386957_tx55di2p9",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:54:19.764Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:54:19.598Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771975535177_yqjef9okr",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:54:19.575Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771975535177_yqjef9okr&seasonId=season_1771975559752_i6552jlbr",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:54:19.502Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771975535177_yqjef9okr",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:54:19.489Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772083386957_tx55di2p9",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:54:19.462Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771975535177_yqjef9okr&seasonId=season_1771975559752_i6552jlbr",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:54:18.246Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:54:15.570Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:54:15.369Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:54:15.214Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1771975535177_yqjef9okr/actors",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:54:15.195Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771975535177_yqjef9okr",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:54:15.183Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:53:06.482Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772083386957_tx55di2p9",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:58.861Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:58.451Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771975535177_yqjef9okr",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:58.439Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771975535177_yqjef9okr&seasonId=season_1771975559752_i6552jlbr",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:58.371Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771975535177_yqjef9okr",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:58.357Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772083386957_tx55di2p9",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:58.344Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771975535177_yqjef9okr&seasonId=season_1771975559752_i6552jlbr",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:56.996Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:55.895Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:55.697Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:55.546Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1771975535177_yqjef9okr/actors",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:55.527Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771975535177_yqjef9okr",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:55.516Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:51.679Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:51.485Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/favicon.ico",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:36.221Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:36.044Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T07:52:35.670Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:35.333Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772329510943_50b2xdt9k",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:35.068Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:34.940Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:34.920Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:34.871Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:34.860Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329510943_50b2xdt9k",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:34.847Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:31.042Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:30.094Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:29.899Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:29.745Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:29.729Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:29.721Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:28.410Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:21.244Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772329634574_7juledqxb",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:21.016Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:20.766Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:20.742Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:20.679Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:20.659Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329634574_7juledqxb",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:20.633Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:10.584Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772329510943_50b2xdt9k",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:10.459Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:10.178Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:10.160Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:10.119Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:10.105Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329510943_50b2xdt9k",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:10.092Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:05.819Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:05.071Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:04.875Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:04.720Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:04.704Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:04.697Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:03.622Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772328782547_bjxa7itdm/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:01.140Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772328782547_bjxa7itdm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:53:01.113Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772329711121_1a7vmor06",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:52.755Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:52.593Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:52.567Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:52.511Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:52.496Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329711121_1a7vmor06",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:52.465Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772329711121_1a7vmor06",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:44.800Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:44.531Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:44.503Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:44.454Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:44.443Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329711121_1a7vmor06",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:44.429Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:42.421Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772329634574_7juledqxb",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:37.122Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:36.829Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:36.816Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:36.749Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:36.730Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329634574_7juledqxb",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:36.714Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:36.633Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:36.617Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:36.556Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:36.544Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327644509_fiusef5lm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:36.530Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:29.503Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:28.695Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:28.496Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:28.343Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:28.328Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:28.318Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:26.836Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:52:26.683Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772329510943_50b2xdt9k",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:56.579Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:56.291Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:56.283Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:56.232Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:56.221Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329510943_50b2xdt9k",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:56.195Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:52.105Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:51.414Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:51.215Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:51.061Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:51.046Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:51.038Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:50.078Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/episode_1772325623922_3f3zv552p/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:49.264Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/episode_1772325623922_3f3zv552p",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:49.249Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/posters/default.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:48.926Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Alan",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:48.887Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/posters/default.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:48.175Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Ala",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:48.130Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/posters/default.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:47.996Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Al",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:47.974Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:45.364Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/episode_1772329510943_50b2xdt9k/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:43.726Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/episode_1772329510943_50b2xdt9k",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:43.714Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/posters/default.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:40.791Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Alan",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:40.752Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/posters/default.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:40.542Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Ala",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:40.517Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/posters/default.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:40.265Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Al",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:40.237Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772329711121_1a7vmor06",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:37.386Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:36.874Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:36.866Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:36.811Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:36.800Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329711121_1a7vmor06",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:36.789Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:35.056Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:33.987Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:33.794Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:33.642Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:33.619Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:51:33.613Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:39.196Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:37.264Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:37.070Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:36.921Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:36.842Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:36.814Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:34.965Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772329711121_1a7vmor06",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:19.671Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:18.152Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:18.121Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:18.008Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:17.958Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329711121_1a7vmor06",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:17.912Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772329634574_7juledqxb",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:06.254Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:04.970Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:04.951Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:04.843Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:04.813Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329634574_7juledqxb",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:49:04.770Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:48:58.681Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:48:57.030Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:48:56.826Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:48:56.679Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:48:56.636Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:48:56.611Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:48:54.757Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:48:31.148Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:48:31.092Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/upload?type=episode",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:48:23.251Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:47:53.648Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:47:53.627Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:47:14.593Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:47:14.568Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/upload?type=episode",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:47:11.992Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:46:36.357Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:46:36.346Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/favicon.ico",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:46:27.481Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772329510943_50b2xdt9k",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:58.100Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:56.882Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:56.860Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:56.759Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:56.723Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329510943_50b2xdt9k",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:56.688Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:52.648Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:51.372Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:51.177Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:51.029Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:50.982Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:50.955Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:49.123Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:48.791Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1770393080244_velgip7ku/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:45.084Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770393080244_velgip7ku",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:45.074Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:44.757Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:44.727Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:44.579Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:44.527Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329510943_50b2xdt9k",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:44.381Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:40.077Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:39.697Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:33.100Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:32.821Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:32.683Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:32.629Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:32.599Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/favicon.ico",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:18.666Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:18.644Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:45:18.093Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:45:10.957Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:45:10.937Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/upload?type=episode",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:45:08.460Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:53.708Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772329450578_9geadoh26",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:31.324Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:30.103Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:30.083Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:29.986Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:29.956Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772329450578_9geadoh26",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:29.926Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:44:29.615Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:44:29.603Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:27.689Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:27.655Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:27.558Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:27.520Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327327550_xtctuh6o1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:27.490Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:23.887Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:23.878Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:23.764Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:23.728Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325336688_vxzk58q5r",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:23.674Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:21.218Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:21.118Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:20.859Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:20.818Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:20.806Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/favicon.ico",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:18.512Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:18.465Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:44:17.839Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:44:10.606Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:44:10.564Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/upload?type=episode",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:43:58.753Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:22.137Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772327644509_fiusef5lm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:21.725Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:20.299Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:20.274Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:20.185Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:20.073Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327644509_fiusef5lm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:19.882Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:43:07.358Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:43:07.341Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:43:06.475Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772327585129_dayn0gpu3",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:06.418Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:43:05.727Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:03.402Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:03.379Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:03.258Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:03.206Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327585129_dayn0gpu3",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:43:03.163Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/logs?limit=10",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:42:56.886Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/stats",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:42:56.878Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:42:56.865Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/admin",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:42:56.709Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:49.019Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772327441201_fe963haji",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:46.502Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:45.584Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:45.551Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:45.464Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:45.438Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327441201_fe963haji",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:45.405Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325118765_rmwzu41ct",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:44.238Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:43.959Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772324994373_jdodua37e",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:43.952Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772324994373_jdodua37e&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:43.907Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772324994373_jdodua37e",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:43.892Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325118765_rmwzu41ct",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:43.880Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325623922_3f3zv552p",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:43.054Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772324994373_jdodua37e/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:42.609Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772324994373_jdodua37e",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:42.600Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:41.055Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:40.123Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:40.102Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:39.918Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:39.873Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325623922_3f3zv552p",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:39.739Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:33.923Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:28.374Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325403212_zu9ziitla",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:20.234Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772327644509_fiusef5lm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:19.307Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:19.039Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:19.026Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:18.965Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:18.950Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327644509_fiusef5lm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:18.935Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:17.525Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:17.513Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:17.293Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:17.255Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325403212_zu9ziitla",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:17.204Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:42:10.591Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:42:05.743Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325367130_20ej8c61j",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:59.184Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:55.892Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:55.854Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:55.746Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:55.664Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325367130_20ej8c61j",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:55.603Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772327585129_dayn0gpu3",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:54.617Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:54.371Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:54.341Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:54.273Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:54.251Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327585129_dayn0gpu3",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:54.194Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772327441201_fe963haji",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:46.044Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:45.799Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:45.773Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:45.709Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:45.688Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327441201_fe963haji",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:45.646Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watchlist/add",
+      "method": "POST",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:43.526Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/like/episode_1772325623922_3f3zv552p",
+      "method": "POST",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:42.925Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325336688_vxzk58q5r",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:42.804Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watchlist/add",
+      "method": "POST",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:42.271Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:41.226Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:41.164Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:40.995Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:40.955Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325336688_vxzk58q5r",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:40.916Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325623922_3f3zv552p",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:38.046Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:37.819Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:37.801Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:37.728Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:37.708Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325623922_3f3zv552p",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:37.676Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:35.326Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:35.121Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:34.922Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:34.721Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:34.710Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/favicon.ico",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:31.515Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:31.478Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325403212_zu9ziitla",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:31.160Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:30.952Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:30.926Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:41:30.880Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:30.871Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:30.858Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325403212_zu9ziitla",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:30.841Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:30.456Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325367130_20ej8c61j",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:20.915Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:20.773Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:20.751Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:20.660Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:20.640Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325367130_20ej8c61j",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:20.600Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:15.494Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325336688_vxzk58q5r",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:15.016Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:14.662Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:14.654Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:14.590Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:14.579Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325336688_vxzk58q5r",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:14.566Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=season_1772329143064_1bxqvdna1",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:10.102Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:07.138Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:06.944Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:06.787Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:06.773Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:06.764Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:05.224Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:41:04.929Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:48.669Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327644509_fiusef5lm",
+      "method": "PUT",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:48.648Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:42.360Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:42.352Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327644509_fiusef5lm",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:42.339Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:34.231Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327585129_dayn0gpu3",
+      "method": "PUT",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:34.214Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:30.462Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:30.455Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327585129_dayn0gpu3",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:30.443Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:26.114Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327441201_fe963haji",
+      "method": "PUT",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:26.094Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:21.108Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:21.098Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327441201_fe963haji",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:21.086Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:15.596Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325623922_3f3zv552p",
+      "method": "PUT",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:15.569Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:10.943Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:10.935Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325623922_3f3zv552p",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:40:10.922Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:57.566Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325403212_zu9ziitla",
+      "method": "PUT",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:57.534Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:52.751Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:52.746Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325403212_zu9ziitla",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:52.718Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:48.232Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:48.226Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325367130_20ej8c61j",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:48.212Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:43.512Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325336688_vxzk58q5r",
+      "method": "PUT",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:43.487Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:39.389Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:39.381Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325336688_vxzk58q5r",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:39.367Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:35.424Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325367130_20ej8c61j",
+      "method": "PUT",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:35.406Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:31.154Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:31.146Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325367130_20ej8c61j",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:31.135Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:18.263Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327327550_xtctuh6o1",
+      "method": "PUT",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:18.230Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:12.341Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:12.335Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327327550_xtctuh6o1",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:12.321Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:05.729Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:03.084Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:39:03.057Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:38:36.612Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:38:35.637Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:38:33.590Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325336688_vxzk58q5r",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:38:00.858Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:38:00.569Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:38:00.563Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:38:00.512Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:38:00.500Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325336688_vxzk58q5r",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:38:00.489Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:37:59.723Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:37:59.708Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:37:59.696Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:45.568Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:45.352Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:43.227Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:42.317Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:42.071Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/actors/actor_1771912020510_9vc9tqvxo",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:33.634Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Emma",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:33.167Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Emm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:33.030Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Em",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:32.901Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:30.095Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/actors/actor_1770274568335_rnesooasv",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:27.973Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Emm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:26.680Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Emm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:26.500Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Em",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:26.379Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Ad",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:22.008Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Add",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:19.747Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Ad",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:19.602Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/actors/actor_1771911992085_g1rrub6n0",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:11.069Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Je",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:10.154Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/actors/actor_1770274779567_x0erciv2b",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:05.729Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Mar",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:05.154Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Ma",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:36:04.896Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/actors/actor_1770274779567_x0erciv2b",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:35:57.460Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1770272785634_jjmswbegl/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:35:54.996Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770272785634_jjmswbegl",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:35:54.989Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:35:38.310Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/like/series_1772328782547_bjxa7itdm",
+      "method": "POST",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:35:37.151Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:35:23.025Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772328782547_bjxa7itdm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:35:22.995Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772328782547_bjxa7itdm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:35:22.827Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772328782547_bjxa7itdm/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:35:16.038Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772328782547_bjxa7itdm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:35:16.030Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:35:12.045Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:35:11.212Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/series_1772328782547_bjxa7itdm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:35:02.787Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:35:02.348Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772328782547_bjxa7itdm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:35:02.337Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772328782547_bjxa7itdm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:35:02.281Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772328782547_bjxa7itdm/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:35:01.070Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772328782547_bjxa7itdm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:35:01.063Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:58.688Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/actors/actor_1771912020510_9vc9tqvxo",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:56.032Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772328782547_bjxa7itdm/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:54.235Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772328782547_bjxa7itdm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:54.227Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:52.963Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/actors/actor_1771912020510_9vc9tqvxo",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:43.506Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:41.801Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:41.603Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:41.454Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1771911719297_bcduyb4xz/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:41.438Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771911719297_bcduyb4xz",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:41.432Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:39.557Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:36.692Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:36.494Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:36.348Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1771911719297_bcduyb4xz/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:36.327Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771911719297_bcduyb4xz",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:36.318Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:35.229Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:34:04.482Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/actors/actor_1771912020510_9vc9tqvxo",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:33:54.192Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Em",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:33:52.077Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772328782547_bjxa7itdm/actors",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:33:38.694Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:33:23.613Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/actors",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:33:23.601Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:33:17.914Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/tags",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:33:17.894Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772328782547_bjxa7itdm/tags",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:33:17.879Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/tags",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:33:10.226Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:33:10.213Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:33:04.968Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/tags",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:33:04.953Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/movies",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:33:02.595Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:33:02.543Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/upload?type=poster",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:32:46.360Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/upload?type=movie",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:32:17.943Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/movies",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:31:08.820Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:31:08.303Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/stats",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:31:06.395Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:31:06.381Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/logs?limit=10",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:31:06.374Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/admin",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:31:06.245Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/upload?type=movie",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:28:19.203Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/srt",
+      "method": "GET",
+      "ip": "::ffff:127.0.0.1",
+      "timestamp": "2026-03-01T01:27:30.661Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/series_1770372611167_fnsnp1oby",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:27:22.784Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:27:22.310Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770372611167_fnsnp1oby",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:27:22.303Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770372611167_fnsnp1oby",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:27:22.242Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1770372611167_fnsnp1oby/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:27:21.516Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770372611167_fnsnp1oby",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:27:21.509Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/movies",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:27:16.603Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770372611167_fnsnp1oby",
+      "method": "PUT",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:27:16.586Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/upload?type=subtitle",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:27:14.550Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770372611167_fnsnp1oby",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:27:03.060Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/srt",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:26:27.948Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:26:12.750Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:26:12.470Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/series_1770372611167_fnsnp1oby",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:26:01.476Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/others/1770372608755-103646889.vtt",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:26:01.207Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:26:01.048Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770372611167_fnsnp1oby",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:26:01.039Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770372611167_fnsnp1oby",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:26:00.981Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1770372611167_fnsnp1oby/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:26:00.256Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770372611167_fnsnp1oby",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:26:00.252Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/movies",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:24:56.122Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/seasons",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:24:48.527Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/movies",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:24:46.891Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:24:45.950Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:24:11.891Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:24:11.690Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:24:05.346Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/tags",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:24:05.305Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772324994373_jdodua37e/tags",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:24:05.289Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/tags",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:23:53.422Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:23:53.416Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:23:47.593Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/tags",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:23:47.535Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/tags",
+      "method": "POST",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:23:47.482Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:23:37.202Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/tags",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:23:37.191Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/promoted",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:23:35.840Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/logs",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:23:34.883Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:23:29.421Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:23:29.104Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:23:22.589Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/movies",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:23:10.753Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325336688_vxzk58q5r",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:54.659Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:54.494Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:54.478Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:54.435Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:54.426Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325336688_vxzk58q5r",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:54.416Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:53.053Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:53.039Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:53.033Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:50.375Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/like/series_1770393080244_velgip7ku",
+      "method": "POST",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:42.033Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/series_1770393080244_velgip7ku",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:36.288Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:35.343Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770393080244_velgip7ku",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:35.301Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1770393080244_velgip7ku/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:34.626Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770393080244_velgip7ku",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:34.620Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:33.517Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:33.314Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/series_1770272785634_jjmswbegl",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:23.024Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:22.572Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770272785634_jjmswbegl",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:22.565Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770272785634_jjmswbegl",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:22.518Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1770272785634_jjmswbegl/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:21.802Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770272785634_jjmswbegl",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:21.796Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:19.150Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:22:18.928Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:22:04.471Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:22:04.192Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1771911835335_i09yip92f",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:55.928Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:52.450Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771911719297_bcduyb4xz",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:52.390Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771911719297_bcduyb4xz&seasonId=season_1771911752178_hit6nzbs4",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:52.213Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771911719297_bcduyb4xz",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:52.174Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1771911835335_i09yip92f",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:52.111Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/series_1770272785634_jjmswbegl",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:50.469Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:49.955Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770272785634_jjmswbegl",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:49.949Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770272785634_jjmswbegl",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:49.906Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1770272785634_jjmswbegl/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:49.244Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770272785634_jjmswbegl",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:49.238Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:47.707Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:34.993Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:34.688Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1771911835335_i09yip92f",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:30.042Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:29.593Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771911719297_bcduyb4xz",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:29.585Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771911719297_bcduyb4xz&seasonId=season_1771911752178_hit6nzbs4",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:29.522Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771911719297_bcduyb4xz",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:29.512Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1771911835335_i09yip92f",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:21:29.502Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771911719297_bcduyb4xz&seasonId=season_1771911752178_hit6nzbs4",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:07.027Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771911719297_bcduyb4xz&seasonId=season_1772195468833_6awnniwlg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:06.411Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771911719297_bcduyb4xz&seasonId=season_1772195150934_3pxye0jpl",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:06.103Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771911719297_bcduyb4xz&seasonId=season_1771911752178_hit6nzbs4",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:04.980Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771911719297_bcduyb4xz&seasonId=season_1772195468833_6awnniwlg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:04.464Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771911719297_bcduyb4xz&seasonId=season_1772195150934_3pxye0jpl",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:03.865Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:00.878Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:00.676Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:00.511Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1771911719297_bcduyb4xz/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:00.423Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771911719297_bcduyb4xz",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:21:00.367Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:20:58.665Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771911719297_bcduyb4xz&seasonId=season_1771911752178_hit6nzbs4",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:20:36.513Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1771911719297_bcduyb4xz&seasonId=season_1772195150934_3pxye0jpl",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:20:36.156Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:20:34.821Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=null&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:20:34.619Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:20:34.477Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1771911719297_bcduyb4xz/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:20:34.454Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1771911719297_bcduyb4xz",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:20:34.449Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:20:32.944Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:20:32.728Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/favicon.ico",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:20:12.549Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:20:12.511Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:20:12.223Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1770393080244_velgip7ku/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:49.300Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1770393080244_velgip7ku",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:49.096Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:45.625Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/movies",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:44.792Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:43.875Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/episode_1771911835335_i09yip92f/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:42.392Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/episode_1771911835335_i09yip92f",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:42.371Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Wednesday",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:40.633Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Wednesday",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:40.610Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Wednesday",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:40.149Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Wednesday",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:40.136Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=Wen",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:39.327Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/search?q=We",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:38.847Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:36.220Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:30.779Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325118765_rmwzu41ct",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:20.990Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:19.714Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772324994373_jdodua37e",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:19.702Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772324994373_jdodua37e&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:19.599Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772324994373_jdodua37e",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:19.571Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325118765_rmwzu41ct",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:19.550Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772324994373_jdodua37e/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:16.872Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772324994373_jdodua37e",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:16.848Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:15.565Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772325118765_rmwzu41ct",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:07.313Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:05.999Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772324994373_jdodua37e",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:05.990Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772324994373_jdodua37e&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:05.782Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772324994373_jdodua37e",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:05.582Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772325118765_rmwzu41ct",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:05.340Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772324994373_jdodua37e/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:02.822Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772324994373_jdodua37e",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:19:02.607Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:18:55.391Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/favicon.ico",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.40",
+      "timestamp": "2026-03-01T01:18:40.154Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:18:39.257Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:18:39.221Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:18:39.216Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:18:34.637Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:18:34.339Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/favicon.ico",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:18:04.959Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/logs",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:17:22.162Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/promoted",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:17:19.723Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/logs",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:17:17.365Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/logs",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:17:07.040Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772327644509_fiusef5lm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:17:06.788Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:17:05.225Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:17:05.219Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:17:05.130Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:17:05.091Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327644509_fiusef5lm",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:17:05.048Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/logs?limit=10",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:17:04.108Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:17:04.091Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/stats",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:17:04.081Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/admin",
+      "method": "GET",
+      "ip": "::1",
+      "timestamp": "2026-03-01T01:17:03.958Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/default_ep.jpg",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:17:00.920Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/content/series_1772325276338_j0ufivwfu/actors",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:17:00.812Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:17:00.798Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/favicon.ico",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:16:58.505Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:16:58.430Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/uploads/avatars/default.png",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:16:58.043Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/watch/episode_1772327585129_dayn0gpu3",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:16:16.918Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/home",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:16:15.200Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:16:15.179Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes?seriesId=series_1772325276338_j0ufivwfu&seasonId=null",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:16:14.971Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/series/series_1772325276338_j0ufivwfu",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:16:14.767Z",
+      "admin": "unknown"
+    },
+    {
+      "endpoint": "/api/episodes/episode_1772327585129_dayn0gpu3",
+      "method": "GET",
+      "ip": "::ffff:192.168.8.182",
+      "timestamp": "2026-03-01T01:16:14.610Z",
+      "admin": "unknown"
+    }
+  ]
+}

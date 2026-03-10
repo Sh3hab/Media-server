@@ -1,0 +1,1043 @@
+{
+  "series": [
+  
+  
+    {
+      "id": "series_1770272785634_jjmswbegl",
+      "title": "Cruelle",
+      "year": 2021,
+      "poster": "/uploads/posters/1770272716298-560078211.jpeg",
+      "rating": 9.1,
+      "order": 0,
+      "promoted": true,
+      "description": "Lurem is the most important thing in the industry for Thumbnails and other things that are important to you and your family is very ",
+      "videoUrl": "uploads/movies/7727272774664891.mp4",
+      "tags": [
+        "دقة عالية"
+      ],
+      "genres": [
+        "غموض ، فانتازيا ، مراهقين"
+      ],
+      "countries": [
+        "أمريكي"
+      ],
+      "actors": [
+        {
+          "id": "actor_1770274568335_rnesooasv",
+          "name": "إيما ستون | Emma stone",
+          "image": "/uploads/actors/1770274497129-552200331.jpg",
+          "bio": "",
+          "nationality": "بريطاني",
+          "birthDate": "",
+          "movies": [],
+          "series": [],
+          "createdAt": "2026-02-05T06:56:08.335Z",
+          "updatedAt": "2026-02-05T06:56:08.335Z"
+        },
+        {
+          "id": "actor_1770274856094_6v5xiq4v3",
+          "name": "جويل فراي | Joel Fry",
+          "image": "/uploads/actors/1770274797391-952820557.jpg",
+          "bio": "",
+          "nationality": "بريطاني",
+          "birthDate": "",
+          "movies": [],
+          "series": [],
+          "createdAt": "2026-02-05T07:00:56.094Z",
+          "updatedAt": "2026-02-05T07:00:56.095Z"
+        },
+        {
+          "id": "actor_1770274779567_x0erciv2b",
+          "name": "مارك سترونج | Mark strong",
+          "image": "/uploads/actors/1770274699804-240853125.jpg",
+          "bio": "",
+          "nationality": "بريطاني",
+          "birthDate": "",
+          "movies": [],
+          "series": [],
+          "createdAt": "2026-02-05T06:59:39.567Z",
+          "updatedAt": "2026-02-05T06:59:39.568Z"
+        }
+      ],
+      "isMovie": true,
+      "duration": "188",
+      "director": "",
+      "language": "ar",
+      "createdAt": "2026-02-05T06:26:25.634Z",
+      "updatedAt": "2026-02-27T23:37:35.781Z",
+      "views": 1156,
+      "likes": 0,
+      "type": "movie",
+      "actorRoles": [
+        {
+          "actorId": "actor_1770274568335_rnesooasv",
+          "actorName": "إيما ستون | Emma stone",
+          "characterName": "Cruelle de vil",
+          "role": "بطل القصة",
+          "order": 1
+        },
+        {
+          "actorId": "actor_1770274856094_6v5xiq4v3",
+          "actorName": "جويل فراي | Joel Fry",
+          "characterName": "Jasper",
+          "role": "شخصية رئيسية",
+          "order": 2
+        },
+        {
+          "actorId": "actor_1770274779567_x0erciv2b",
+          "actorName": "مارك سترونج | Mark strong",
+          "characterName": "John the Valet",
+          "role": "شخصية ثانوية",
+          "order": 3
+        }
+      ],
+      "subtitleUrl": "/uploads/others/1772235452950-818404723.vtt",
+      "seasons": [],
+      "episodes": [],
+      "totalEpisodes": 0,
+      "totalSeasons": 0
+    },
+    {
+      "id": "series_1770281772903_f7scdklua",
+      "title": "A minecraft movie",
+      "year": 2025,
+      "poster": "/uploads/posters/1770281940266-209112183.jpg",
+      "rating": 7.1,
+      "order": 0,
+      "promoted": false,
+      "description": "Minecraft movie",
+      "videoUrl": "uploads/movies/2239073774664791.mp4",
+      "tags": [
+        "الأكثر مشاهدة"
+      ],
+      "genres": [],
+      "countries": [],
+      "actors": [
+        "actor_1771912020510_9vc9tqvxo"
+      ],
+      "isMovie": true,
+      "duration": "154",
+      "director": "",
+      "language": "ar",
+      "createdAt": "2026-02-05T08:56:12.903Z",
+      "updatedAt": "2026-02-05T08:59:08.830Z",
+      "views": 0,
+      "likes": 0,
+      "type": "movie",
+      "actorRoles": [
+        {
+          "actorId": "actor_1771912020510_9vc9tqvxo",
+          "actorName": "Emma Myers",
+          "characterName": "Emma Myers",
+          "role": "بطل القصة",
+          "order": 0
+        }
+      ]
+    },
+    {
+      "id": "series_1770372611167_fnsnp1oby",
+      "title": "The Bad guys",
+      "year": 2022,
+      "poster": "/uploads/posters/1770372543912-580334520.png",
+      "rating": 8,
+      "order": 0,
+      "promoted": false,
+      "description": "The Bad guys ",
+      "videoUrl": "/uploads/movies/1770372567111-566195021.mp4",
+      "subtitleUrl": "/uploads/others/1772328434559-56434429.vtt",
+      "tags": [],
+      "genres": [],
+      "countries": [],
+      "actors": [],
+      "isMovie": true,
+      "duration": "",
+      "director": "",
+      "language": "ar",
+      "createdAt": "2026-02-06T10:10:11.167Z",
+      "updatedAt": "2026-03-01T01:27:16.592Z",
+      "views": 0,
+      "likes": 0,
+      "type": "movie"
+    },
+    {
+      "id": "series_1770393080244_velgip7ku",
+      "title": "Sonic the Hedgehog 1",
+      "year": 2020,
+      "poster": "/uploads/posters/1770393032009-131247346.jpg",
+      "rating": 8,
+      "order": 0,
+      "promoted": false,
+      "description": "الجزء الأول من أفلام سونيك",
+      "videoUrl": "/uploads/movies/1770393064629-528929420.mp4",
+      "subtitleUrl": "",
+      "tags": [
+        "انجليزي"
+      ],
+      "genres": [],
+      "countries": [
+        "America"
+      ],
+      "actors": [],
+      "isMovie": true,
+      "duration": "",
+      "director": "",
+      "language": "ar",
+      "createdAt": "2026-02-06T15:51:20.245Z",
+      "updatedAt": "2026-02-06T15:51:20.245Z",
+      "views": 0,
+      "likes": 0,
+      "type": "movie"
+    },
+    {
+      "id": "series_1772324994373_jdodua37e",
+      "title": "فيديوهات يوتيوب",
+      "year": 2025,
+      "poster": "/uploads/posters/1772324989405-809735462.jpg",
+      "rating": 10,
+      "order": 0,
+      "promoted": false,
+      "description": "",
+      "videoUrl": "",
+      "subtitleUrl": "",
+      "tags": [
+        "كتلة العفن"
+      ],
+      "genres": [],
+      "countries": [],
+      "actors": [],
+      "isMovie": false,
+      "duration": "",
+      "director": "",
+      "language": "ar",
+      "createdAt": "2026-03-01T00:29:54.373Z",
+      "updatedAt": "2026-03-01T00:29:54.373Z",
+      "views": 0,
+      "likes": 0,
+      "type": "series"
+    },
+    {
+      "id": "series_1772325276338_j0ufivwfu",
+      "title": "رييلز",
+      "year": 2025,
+      "poster": "/uploads/posters/1772325273763-856721014.jpg",
+      "rating": 10,
+      "order": 0,
+      "promoted": false,
+      "description": "",
+      "videoUrl": "",
+      "subtitleUrl": "",
+      "tags": [],
+      "genres": [],
+      "countries": [],
+      "actors": [],
+      "isMovie": false,
+      "duration": "",
+      "director": "",
+      "language": "ar",
+      "createdAt": "2026-03-01T00:34:36.338Z",
+      "updatedAt": "2026-03-01T00:34:36.338Z",
+      "views": 0,
+      "likes": 0,
+      "type": "series"
+    },
+    {
+      "id": "series_1772328782547_bjxa7itdm",
+      "title": "Family Switch",
+      "year": 2023,
+      "poster": "/uploads/posters/1772328766367-357105817.jpg",
+      "rating": 8,
+      "order": 0,
+      "promoted": false,
+      "description": "",
+      "videoUrl": "/uploads/movies/1772328737956-229599701.mp4",
+      "subtitleUrl": "",
+      "tags": [
+        "حصري"
+      ],
+      "genres": [],
+      "countries": [],
+      "actors": [
+        "actor_1771912020510_9vc9tqvxo"
+      ],
+      "isMovie": true,
+      "duration": "",
+      "director": "",
+      "language": "ar",
+      "createdAt": "2026-03-01T01:33:02.547Z",
+      "updatedAt": "2026-03-01T01:33:02.547Z",
+      "views": 0,
+      "likes": 0,
+      "type": "movie",
+      "actorRoles": [
+        {
+          "actorId": "actor_1771912020510_9vc9tqvxo",
+          "actorName": "Emma Myers",
+          "characterName": "Emma Myers",
+          "role": "بطل القصة",
+          "order": 0
+        }
+      ]
+    }
+  ],
+  "movies": [],
+  "actors": [
+    {
+      "id": "actor_1770274568335_rnesooasv",
+      "name": "إيما ستون | Emma stone",
+      "image": "/uploads/actors/1770274497129-552200331.jpg",
+      "bio": "",
+      "nationality": "بريطاني",
+      "birthDate": "",
+      "movies": [],
+      "series": [],
+      "createdAt": "2026-02-05T06:56:08.335Z",
+      "updatedAt": "2026-02-05T06:56:08.335Z"
+    },
+    {
+      "id": "actor_1770274779567_x0erciv2b",
+      "name": "مارك سترونج | Mark strong",
+      "image": "/uploads/actors/1770274699804-240853125.jpg",
+      "bio": "",
+      "nationality": "بريطاني",
+      "birthDate": "",
+      "movies": [],
+      "series": [],
+      "createdAt": "2026-02-05T06:59:39.567Z",
+      "updatedAt": "2026-02-05T06:59:39.568Z"
+    },
+    {
+      "id": "actor_1770274856094_6v5xiq4v3",
+      "name": "جويل فراي | Joel Fry",
+      "image": "/uploads/actors/1770274797391-952820557.jpg",
+      "bio": "",
+      "nationality": "بريطاني",
+      "birthDate": "",
+      "movies": [],
+      "series": [],
+      "createdAt": "2026-02-05T07:00:56.094Z",
+      "updatedAt": "2026-02-05T07:00:56.095Z"
+    },
+    {
+      "id": "actor_1771911992085_g1rrub6n0",
+      "name": "Jenna Ortega",
+      "image": "/uploads/actors/1771911988560-553624920.jpeg",
+      "bio": "",
+      "nationality": "",
+      "birthDate": "",
+      "movies": [],
+      "series": [],
+      "createdAt": "2026-02-24T05:46:32.085Z",
+      "updatedAt": "2026-02-24T05:46:32.085Z"
+    },
+    {
+      "id": "actor_1771912020510_9vc9tqvxo",
+      "name": "Emma Myers",
+      "image": "/uploads/actors/1771912017784-150352460.jpeg",
+      "bio": "",
+      "nationality": "",
+      "birthDate": "",
+      "movies": [],
+      "series": [],
+      "createdAt": "2026-02-24T05:47:00.510Z",
+      "updatedAt": "2026-02-24T05:47:00.510Z"
+    },
+    {
+      "id": "actor_1771912045535_gpgs3bxri",
+      "name": "Hunter Doohan",
+      "image": "/uploads/actors/1771912042861-746417388.jpeg",
+      "bio": "",
+      "nationality": "",
+      "birthDate": "",
+      "movies": [],
+      "series": [],
+      "createdAt": "2026-02-24T05:47:25.535Z",
+      "updatedAt": "2026-02-24T05:47:25.535Z"
+    },
+    {
+      "id": "actor_1771912120922_jpx85q5ce",
+      "name": "Catherine Zeta- Jones",
+      "image": "/uploads/actors/1771912118279-758055335.jpeg",
+      "bio": "",
+      "nationality": "",
+      "birthDate": "",
+      "movies": [],
+      "series": [],
+      "createdAt": "2026-02-24T05:48:40.922Z",
+      "updatedAt": "2026-02-24T05:48:40.922Z"
+    },
+    {
+      "id": "actor_1771912142478_wia5lrmao",
+      "name": "Isaac Ordonez",
+      "image": "/uploads/actors/1771912140076-698226689.jpeg",
+      "bio": "",
+      "nationality": "",
+      "birthDate": "",
+      "movies": [],
+      "series": [],
+      "createdAt": "2026-02-24T05:49:02.478Z",
+      "updatedAt": "2026-02-24T05:49:02.478Z"
+    }
+  ],
+  "genres": [
+    {
+      "id": "1",
+      "name": "أكشن",
+      "color": "#FF0000",
+      "icon": "fa-gun"
+    },
+    {
+      "id": "2",
+      "name": "دراما",
+      "color": "#1E90FF",
+      "icon": "fa-masks-theater"
+    },
+    {
+      "id": "3",
+      "name": "كوميدي",
+      "color": "#FFD700",
+      "icon": "fa-face-laugh"
+    },
+    {
+      "id": "4",
+      "name": "رومانسي",
+      "color": "#FF69B4",
+      "icon": "fa-heart"
+    },
+    {
+      "id": "5",
+      "name": "رعب",
+      "color": "#8B0000",
+      "icon": "fa-ghost"
+    },
+    {
+      "id": "6",
+      "name": "خيال علمي",
+      "color": "#00CED1",
+      "icon": "fa-rocket"
+    },
+    {
+      "id": "7",
+      "name": "وثائقي",
+      "color": "#32CD32",
+      "icon": "fa-camera"
+    },
+    {
+      "id": "8",
+      "name": "جريمة",
+      "color": "#4B0082",
+      "icon": "fa-magnifying-glass"
+    }
+  ],
+  "countries": [
+    {
+      "id": "1",
+      "name": "مصر",
+      "code": "EG",
+      "flag": "/uploads/flags/eg.svg",
+      "continent": "افريقيا"
+    },
+    {
+      "id": "2",
+      "name": "السعودية",
+      "code": "SA",
+      "flag": "/uploads/flags/sa.svg",
+      "continent": "اسيا"
+    },
+    {
+      "id": "3",
+      "name": "الإمارات",
+      "code": "AE",
+      "flag": "/uploads/flags/ae.svg",
+      "continent": "اسيا"
+    },
+    {
+      "id": "4",
+      "name": "الولايات المتحدة",
+      "code": "US",
+      "flag": "/uploads/flags/us.svg",
+      "continent": "امريكا الشمالية"
+    },
+    {
+      "id": "5",
+      "name": "تركيا",
+      "code": "TR",
+      "flag": "/uploads/flags/tr.svg",
+      "continent": "اسيا"
+    },
+    {
+      "id": "country_1772233573335_9zewaq8fl",
+      "name": "السعوديه",
+      "code": "SA",
+      "flag": "",
+      "continent": "اسيا",
+      "createdAt": "2026-02-27T23:06:13.336Z"
+    }
+  ],
+  "tags": [
+    {
+      "id": "2",
+      "name": "حصري",
+      "color": "#1bd68e",
+      "type": "premium",
+      "count": 1
+    },
+    {
+      "id": "3",
+      "name": "الأكثر مشاهدة",
+      "color": "#FFD700",
+      "type": "popular",
+      "count": 2
+    },
+    {
+      "id": "tag_1770396802502_8745mt6d0",
+      "name": "دقة عالية",
+      "color": "#1bd68e",
+      "type": "quality",
+      "count": 2,
+      "createdAt": "2026-02-06T16:53:22.502Z"
+    },
+    {
+      "id": "tag_1772199654533_b20bjhy9v",
+      "name": "عربي",
+      "color": "#1bd68e",
+      "type": "general",
+      "count": 1,
+      "createdAt": "2026-02-27T13:40:54.533Z"
+    },
+    {
+      "id": "tag_1772233329509_rv2zxj2v6",
+      "name": "انجليزي",
+      "color": "#1bd68e",
+      "type": "general",
+      "count": 1,
+      "createdAt": "2026-02-27T23:02:09.509Z"
+    },
+    {
+      "id": "tag_1772325015809_b6lvpkndr",
+      "name": "يوتيوب",
+      "color": "#1bd68e",
+      "type": "general",
+      "count": 1,
+      "createdAt": "2026-03-01T00:30:15.809Z"
+    },
+    {
+      "id": "tag_1772325027289_t9g09mh83",
+      "name": "Reels",
+      "color": "#1bd68e",
+      "type": "general",
+      "count": 1,
+      "createdAt": "2026-03-01T00:30:27.289Z"
+    },
+    {
+      "id": "tag_1772328227493_69urbvd25",
+      "name": "كتلة العفن",
+      "color": "#1bd68e",
+      "type": "general",
+      "count": 1,
+      "createdAt": "2026-03-01T01:23:47.493Z"
+    }
+  ],
+  "parts": [],
+  "promotions": [],
+  "seasons": [
+    {
+      "id": "season_1771911752178_hit6nzbs4",
+      "seriesId": "series_1771911719297_bcduyb4xz",
+      "seriesTitle": "Wednesday addams",
+      "seasonNumber": 1,
+      "title": "الموسم الاول",
+      "poster": "/uploads/posters/1771911679814-852076563.jpeg",
+      "description": "تدور أحداث المسلسل حول وينزداي آدامز، الفتاة الذكية والغامضة ذات الحس الساخر، أثناء دراستها في أكاديمية نيفرمور. تحاول وينزداي إتقان قدراتها النفسية الناشئة، وإحباط سلسلة جرائم قتل مرعبة أرعبت البلدة المحلية، وكشف لغز خارق للطبيعة تورط فيه والداها قبل 25 عامًا — كل ذلك أثناء تعاملها مع علاقاتها المعقدة في المدرسة.",
+      "year": 2022,
+      "episodeCount": 4,
+      "createdAt": "2026-02-24T05:42:32.178Z",
+      "updatedAt": "2026-02-24T05:42:32.178Z"
+    },
+    {
+      "id": "season_1771975559752_i6552jlbr",
+      "seriesId": "series_1771975535177_yqjef9okr",
+      "seriesTitle": "بنات الثانوية",
+      "seasonNumber": 1,
+      "title": "الموسم 1",
+      "poster": "/uploads/posters/1771975529438-11836455.jpg",
+      "description": "",
+      "year": 2021,
+      "episodeCount": 5,
+      "createdAt": "2026-02-24T23:25:59.752Z",
+      "updatedAt": "2026-02-24T23:25:59.752Z"
+    },
+    {
+      "id": "season_1772195150934_3pxye0jpl",
+      "seriesId": "series_1771911719297_bcduyb4xz",
+      "seriesTitle": "Wednesday addams",
+      "seasonNumber": 2,
+      "title": "الموسم الثاني",
+      "poster": "/uploads/posters/1771911679814-852076563.jpeg",
+      "description": "",
+      "year": 2025,
+      "episodeCount": 0,
+      "createdAt": "2026-02-27T12:25:50.934Z",
+      "updatedAt": "2026-02-27T12:25:50.934Z"
+    },
+    {
+      "id": "season_1772195468833_6awnniwlg",
+      "seriesId": "series_1771911719297_bcduyb4xz",
+      "seriesTitle": "Wednesday addams",
+      "seasonNumber": 2,
+      "title": "Seson 2",
+      "poster": "/uploads/posters/1771911679814-852076563.jpeg",
+      "description": "",
+      "year": 2025,
+      "episodeCount": 0,
+      "createdAt": "2026-02-27T12:31:08.833Z",
+      "updatedAt": "2026-02-27T12:31:08.833Z"
+    },
+    {
+      "id": "season_1772329143064_1bxqvdna1",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seriesTitle": "رييلز",
+      "seasonNumber": 1,
+      "title": "رييلز ١",
+      "poster": "/uploads/posters/1772325273763-856721014.jpg",
+      "description": "",
+      "year": 2025,
+      "episodeCount": 12,
+      "createdAt": "2026-03-01T01:39:03.064Z",
+      "updatedAt": "2026-03-01T01:39:03.064Z"
+    }
+  ],
+  "episodes": [
+    {
+      "id": "episode_1771911835335_i09yip92f",
+      "seriesId": "series_1771911719297_bcduyb4xz",
+      "seasonId": "season_1771911752178_hit6nzbs4",
+      "episodeNumber": "1",
+      "title": "Wednesday's Child Is Full of Woe",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772245786854-71300891.mp4",
+      "duration": "00:59:28",
+      "poster": "/uploads/posters/1771911679814-852076563.jpeg",
+      "thumbnail": "/uploads/posters/1771911679814-852076563.jpeg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-02-24T05:43:55.335Z",
+      "updatedAt": "2026-02-28T02:29:56.307Z",
+      "subtitleUrl": ""
+    },
+    {
+      "id": "episode_1771911891226_iitylt1oz",
+      "seriesId": "series_1771911719297_bcduyb4xz",
+      "seasonId": "season_1771911752178_hit6nzbs4",
+      "episodeNumber": "2",
+      "title": "Woe Is the Loneliest Number",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772245818763-77763198.mp4",
+      "duration": "00:48:47",
+      "thumbnail": "/uploads/posters/1771911679814-852076563.jpeg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-02-24T05:44:51.226Z",
+      "updatedAt": "2026-02-28T02:30:27.678Z",
+      "subtitleUrl": ""
+    },
+    {
+      "id": "episode_1771953921399_ziyscrg1l",
+      "seriesId": "series_1771911719297_bcduyb4xz",
+      "seasonId": "season_1771911752178_hit6nzbs4",
+      "episodeNumber": "3",
+      "title": "Friend or Woe",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772245847022-784752105.mp4",
+      "duration": "00:48:27",
+      "thumbnail": "/uploads/posters/1771911679814-852076563.jpeg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-02-24T17:25:21.399Z",
+      "updatedAt": "2026-02-28T02:30:55.534Z",
+      "subtitleUrl": ""
+    },
+    {
+      "id": "episode_1771954329994_kz6ddy0qy",
+      "seriesId": "series_1771911719297_bcduyb4xz",
+      "seasonId": "season_1771911752178_hit6nzbs4",
+      "episodeNumber": "4",
+      "title": "Woe What a Night",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772245878563-402973620.mp4",
+      "duration": "00:49:43",
+      "thumbnail": "/uploads/posters/1771911679814-852076563.jpeg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-02-24T17:32:09.994Z",
+      "updatedAt": "2026-02-28T02:31:25.882Z",
+      "subtitleUrl": ""
+    },
+    {
+      "id": "episode_1771975637787_78q9bn2kr",
+      "seriesId": "series_1771975535177_yqjef9okr",
+      "seasonId": "season_1771975559752_i6552jlbr",
+      "episodeNumber": 7,
+      "title": "٧",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1771975628961-731549120.mp4",
+      "duration": "00:00",
+      "thumbnail": "/uploads/posters/1771975529438-11836455.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-02-24T23:27:17.787Z",
+      "updatedAt": "2026-02-24T23:27:17.787Z"
+    },
+    {
+      "id": "episode_1771975719682_7kvpgriwk",
+      "seriesId": "series_1771975535177_yqjef9okr",
+      "seasonId": "season_1771975559752_i6552jlbr",
+      "episodeNumber": 8,
+      "title": "٨",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1771975712891-311892479.mp4",
+      "duration": "00:00",
+      "thumbnail": "/uploads/posters/1771975529438-11836455.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-02-24T23:28:39.683Z",
+      "updatedAt": "2026-02-24T23:28:39.683Z"
+    },
+    {
+      "id": "episode_1771975748953_cx9pwk823",
+      "seriesId": "series_1771975535177_yqjef9okr",
+      "seasonId": "season_1771975559752_i6552jlbr",
+      "episodeNumber": 9,
+      "title": "٩",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1771975741375-413523445.mp4",
+      "duration": "00:00",
+      "thumbnail": "/uploads/posters/1771975529438-11836455.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-02-24T23:29:08.953Z",
+      "updatedAt": "2026-02-24T23:29:08.953Z"
+    },
+    {
+      "id": "episode_1771975780121_vg4d0stmk",
+      "seriesId": "series_1771975535177_yqjef9okr",
+      "seasonId": "season_1771975559752_i6552jlbr",
+      "episodeNumber": 10,
+      "title": "١٠",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1771975762124-326331542.mp4",
+      "duration": "00:00",
+      "thumbnail": "/uploads/posters/1771975529438-11836455.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-02-24T23:29:40.121Z",
+      "updatedAt": "2026-02-24T23:29:40.121Z"
+    },
+    {
+      "id": "episode_1772083386957_tx55di2p9",
+      "seriesId": "series_1771975535177_yqjef9okr",
+      "seasonId": "season_1771975559752_i6552jlbr",
+      "episodeNumber": 11,
+      "title": "11",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772083378047-806132157.mp4",
+      "duration": "00:00",
+      "thumbnail": "/uploads/posters/1771975529438-11836455.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-02-26T05:23:06.957Z",
+      "updatedAt": "2026-02-26T05:23:06.957Z"
+    },
+    {
+      "id": "episode_1772325118765_rmwzu41ct",
+      "seriesId": "series_1772324994373_jdodua37e",
+      "seasonId": null,
+      "episodeNumber": 1,
+      "title": "جربت_أسوأ_مطاعم_في_الأردن_مع_أحمد_ابو_الرب",
+      "description": "فيديو يوتيوب",
+      "videoUrl": "/uploads/episodes/1772325104100-644877103.mp4",
+      "duration": "15:38",
+      "poster": "/uploads/posters/1772324989405-809735462.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T00:31:58.765Z",
+      "updatedAt": "2026-03-01T00:31:58.765Z"
+    },
+    {
+      "id": "episode_1772325336688_vxzk58q5r",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seasonId": "season_1772329143064_1bxqvdna1",
+      "episodeNumber": "1",
+      "title": "Bmw",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772325334338-521381122.mp4",
+      "duration": "",
+      "poster": "/uploads/posters/1772325273763-856721014.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T00:35:36.688Z",
+      "updatedAt": "2026-03-01T01:39:43.491Z",
+      "subtitleUrl": ""
+    },
+    {
+      "id": "episode_1772325367130_20ej8c61j",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seasonId": "season_1772329143064_1bxqvdna1",
+      "episodeNumber": "2",
+      "title": "Bmw",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772325364966-67689951.mp4",
+      "duration": "",
+      "poster": "/uploads/posters/1772325273763-856721014.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T00:36:07.130Z",
+      "updatedAt": "2026-03-01T01:39:35.409Z",
+      "subtitleUrl": ""
+    },
+    {
+      "id": "episode_1772325403212_zu9ziitla",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seasonId": "season_1772329143064_1bxqvdna1",
+      "episodeNumber": "3",
+      "title": "Bmw",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772325401068-582764690.mp4",
+      "duration": "",
+      "poster": "/uploads/posters/1772325273763-856721014.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T00:36:43.212Z",
+      "updatedAt": "2026-03-01T01:39:57.543Z",
+      "subtitleUrl": ""
+    },
+    {
+      "id": "episode_1772325623922_3f3zv552p",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seasonId": "season_1772329143064_1bxqvdna1",
+      "episodeNumber": "4",
+      "title": "Alan",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772325617154-420323372.mp4",
+      "duration": "",
+      "poster": "/uploads/posters/1772325273763-856721014.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T00:40:23.922Z",
+      "updatedAt": "2026-03-01T01:40:15.577Z",
+      "subtitleUrl": ""
+    },
+    {
+      "id": "episode_1772327327550_xtctuh6o1",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seasonId": "season_1772329143064_1bxqvdna1",
+      "episodeNumber": "4",
+      "title": "Bmw",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772327325191-917920542.mp4",
+      "duration": "",
+      "thumbnail": "/uploads/posters/1772325273763-856721014.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T01:08:47.550Z",
+      "updatedAt": "2026-03-01T01:39:18.234Z",
+      "subtitleUrl": ""
+    },
+    {
+      "id": "episode_1772327441201_fe963haji",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seasonId": "season_1772329143064_1bxqvdna1",
+      "episodeNumber": "5",
+      "title": "Hdhdhd",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772327438446-247409600.mp4",
+      "duration": "",
+      "thumbnail": "/uploads/posters/1772325273763-856721014.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T01:10:41.201Z",
+      "updatedAt": "2026-03-01T01:40:26.104Z",
+      "subtitleUrl": ""
+    },
+    {
+      "id": "episode_1772327585129_dayn0gpu3",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seasonId": "season_1772329143064_1bxqvdna1",
+      "episodeNumber": "6",
+      "title": "Shehh",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772327583133-702007756.mp4",
+      "duration": "",
+      "thumbnail": "/uploads/posters/1772325273763-856721014.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T01:13:05.130Z",
+      "updatedAt": "2026-03-01T01:40:34.218Z",
+      "subtitleUrl": ""
+    },
+    {
+      "id": "episode_1772327644509_fiusef5lm",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seasonId": "season_1772329143064_1bxqvdna1",
+      "episodeNumber": "7",
+      "title": "Hgg",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772327640713-716149849.mp4",
+      "duration": "",
+      "thumbnail": "/uploads/posters/1772325273763-856721014.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T01:14:04.509Z",
+      "updatedAt": "2026-03-01T01:40:48.654Z",
+      "subtitleUrl": ""
+    },
+    {
+      "id": "episode_1772329450578_9geadoh26",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seasonId": "season_1772329143064_1bxqvdna1",
+      "episodeNumber": 8,
+      "title": "الل",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772329438775-272907987.mp4",
+      "duration": "00:00:22",
+      "thumbnail": "/uploads/posters/1772325273763-856721014.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T01:44:10.578Z",
+      "updatedAt": "2026-03-01T01:44:10.579Z"
+    },
+    {
+      "id": "episode_1772329510943_50b2xdt9k",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seasonId": "season_1772329143064_1bxqvdna1",
+      "episodeNumber": 9,
+      "title": "Alan",
+      "description": "",
+      "videoUrl": "/uploads/episodes/1772329508465-704908335.mp4",
+      "duration": "00:00:29",
+      "thumbnail": "/uploads/posters/1772325273763-856721014.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T01:45:10.943Z",
+      "updatedAt": "2026-03-01T01:45:10.943Z"
+    },
+    {
+      "id": "episode_1772329634574_7juledqxb",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seasonId": "season_1772329143064_1bxqvdna1",
+      "episodeNumber": 10,
+      "title": "Bmaww",
+      "description": "البي ام عمممك",
+      "videoUrl": "/uploads/episodes/1772329632000-198720294.mp4",
+      "duration": "00:00:19",
+      "thumbnail": "/uploads/posters/1772325273763-856721014.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T01:47:14.574Z",
+      "updatedAt": "2026-03-01T01:47:14.574Z"
+    },
+    {
+      "id": "episode_1772329711121_1a7vmor06",
+      "seriesId": "series_1772325276338_j0ufivwfu",
+      "seasonId": "season_1772329143064_1bxqvdna1",
+      "episodeNumber": 11,
+      "title": "بورش",
+      "description": "بورش",
+      "videoUrl": "/uploads/episodes/1772329703261-399222896.mp4",
+      "duration": "00:00:15",
+      "thumbnail": "/uploads/posters/1772325273763-856721014.jpg",
+      "isFree": false,
+      "views": 0,
+      "likes": 0,
+      "createdAt": "2026-03-01T01:48:31.121Z",
+      "updatedAt": "2026-03-01T01:48:31.121Z"
+    }
+  ],
+  "users": [
+    {
+      "id": "92a9e850-3e4a-4e11-8381-255f429f6bcc",
+      "username": "شهاب",
+      "isGuest": true,
+      "createdAt": "2026-02-11T19:17:21.594Z",
+      "lastActive": "2026-02-11T19:17:21.594Z",
+      "avatar": "/uploads/avatars/default.png",
+      "preferences": {
+        "autoplay": true,
+        "quality": "auto",
+        "speed": 1,
+        "subtitles": true,
+        "theme": "dark"
+      }
+    },
+    {
+      "id": "7ade1e47-4a68-4139-85b3-ffe5be328155",
+      "username": {
+        "username": "Sh",
+        "securityQuestion": "movie",
+        "securityAnswer": "Sonic"
+      },
+      "isGuest": true,
+      "createdAt": "2026-02-11T19:37:24.372Z",
+      "lastActive": "2026-02-11T19:37:24.372Z",
+      "avatar": "/uploads/avatars/default.png",
+      "preferences": {
+        "autoplay": true,
+        "quality": "auto",
+        "speed": 1,
+        "subtitles": true,
+        "theme": "dark"
+      }
+    }
+  ],
+  "profiles": [
+    {
+      "id": "b834b1ba-4457-471d-a828-7c3ec2339fa6",
+      "userId": "92a9e850-3e4a-4e11-8381-255f429f6bcc",
+      "name": "شهاب",
+      "avatar": "/uploads/avatars/default.png",
+      "isDefault": true,
+      "createdAt": "2026-02-11T19:17:21.594Z"
+    },
+    {
+      "id": "dd6811d2-f86f-4849-b293-68aa12d7ea04",
+      "userId": "7ade1e47-4a68-4139-85b3-ffe5be328155",
+      "name": {
+        "username": "Sh",
+        "securityQuestion": "movie",
+        "securityAnswer": "Sonic"
+      },
+      "avatar": "/uploads/avatars/default.png",
+      "isDefault": true,
+      "createdAt": "2026-02-11T19:37:24.372Z"
+    }
+  ],
+  "watchlist": [
+    {
+      "id": "345624a7-9562-45e4-b6a9-acc74ac2b72b",
+      "userId": "92a9e850-3e4a-4e11-8381-255f429f6bcc",
+      "contentId": "series_1770235483786_1ewyqlnz0",
+      "contentType": "series",
+      "addedAt": "2026-02-11T19:37:03.815Z"
+    }
+  ]
+}
